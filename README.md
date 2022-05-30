@@ -1,4 +1,3 @@
-# R-_prgm
 
 # Project Description
 
@@ -15,4 +14,4 @@ From your insights provide a conclusion and recommendation.
 
 # Author
 
-*Eltonjohn*
+*Eltonjohn Oketch*
